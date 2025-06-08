@@ -1,1 +1,1 @@
-# iGEMSepsisPrediction
+# iGEM Sepsis Prediction Model
